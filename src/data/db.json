@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+        "id":1,
+        "name":"admin",
+        "email":"a@a.com",
+        "password":"ad",
+        "role":"admin"
+    }
+  ]
+}
